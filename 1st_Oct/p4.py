@@ -1,4 +1,4 @@
-Str=input("Enter a string ")
+Str=input("Enter a string: ")
 count=0
 vowels="AEIOUaeiou"
 for char in Str:
