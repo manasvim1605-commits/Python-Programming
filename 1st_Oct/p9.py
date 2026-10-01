@@ -1,3 +1,5 @@
+
+#Count occurence of each vowel 
 Str=input("Enter a string: ")
 count=0
 ca=0
